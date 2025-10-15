@@ -1,5 +1,3 @@
-# dynamic_basket
-
 <div class="dynamic_basket js-dynamic_basket">
 </div>
 
